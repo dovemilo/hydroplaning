@@ -1,0 +1,25 @@
+{
+    "name": "Brian Miles",
+    "age": 8,
+    "address": {
+        "street": "William Junction",
+        "city": "New Sarahbury",
+        "state": "Wisconsin",
+        "zip": "15237"
+    },
+    "contact": {
+        "phone": "001-246-884-3396",
+        "servicePhone": "800270293"
+    },
+    "birthday": "2017-17-07",
+    "ip": "57.118.51.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth up then another another.\nBank best give war visit take. Center positive response.",
+        "bio": "Seat how or red. Discover watch soldier.\nFour from yes affect community effect other tonight. Last push whom contain nothing sea defense everyone. Live later actually enter."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
