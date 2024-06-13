@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Cole",
+    "age": 57,
+    "address": {
+        "street": "Benson Mountains",
+        "city": "Port Nancyshire",
+        "state": "Maine",
+        "zip": "70197"
+    },
+    "contact": {
+        "phone": "966-905-3752",
+        "servicePhone": "800601274"
+    },
+    "birthday": "1968-15-04",
+    "ip": "21.129.8.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly would level crime speak learn. Window vote hot dream miss design run.\nAway article glass important.\nEnjoy school other almost full. Be on computer different.",
+        "bio": "I skill evidence claim baby leader. Score left always act provide lawyer. Goal eat account focus type hotel work.\nPosition yeah set find. Environmental result over produce black will girl."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
