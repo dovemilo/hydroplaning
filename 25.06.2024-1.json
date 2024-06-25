@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Bailey",
+    "age": 18,
+    "address": {
+        "street": "Ryan Crossroad",
+        "city": "Gardnerton",
+        "state": "Utah",
+        "zip": "27454"
+    },
+    "contact": {
+        "phone": "001-948-255-2626x556",
+        "servicePhone": "800205769"
+    },
+    "birthday": "2007-17-05",
+    "ip": "109.164.13.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Change war common total production last deal. Area wear medical keep any. Drive toward focus kid. Hotel carry present tough who great lot tough.",
+        "bio": "Realize candidate gun first interview cost first. Relationship which range war.\nFood interview rock."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
