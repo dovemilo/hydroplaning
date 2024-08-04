@@ -1,0 +1,25 @@
+{
+    "name": "April Ponce",
+    "age": 55,
+    "address": {
+        "street": "Snyder Turnpike",
+        "city": "Lake Adam",
+        "state": "South Dakota",
+        "zip": "46875"
+    },
+    "contact": {
+        "phone": "001-734-705-4202x63220",
+        "servicePhone": "800447853"
+    },
+    "birthday": "1970-08-06",
+    "ip": "16.152.205.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Western moment short position. Film write manager record.\nAbove political remember walk today everybody politics. Cell yourself less soldier. Suggest direction serious current nation by yard.",
+        "bio": "Page more TV buy. Technology thank minute.\nAttorney establish artist someone. Chair hour letter player water enough future able.\nDecision fish want set. Check guess military determine until safe."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
