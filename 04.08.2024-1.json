@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Moody",
+    "age": 85,
+    "address": {
+        "street": "Daniel Dale",
+        "city": "Holmesburgh",
+        "state": "Pennsylvania",
+        "zip": "33205"
+    },
+    "contact": {
+        "phone": "+1-969-384-1301x80410",
+        "servicePhone": "800872868"
+    },
+    "birthday": "1940-03-03",
+    "ip": "39.75.77.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas whom benefit fear will another. Card bit vote recent.\nBill out share social news later. Success market building establish. Decade action glass rich learn.",
+        "bio": "Miss southern know also painting laugh once your. Sister camera which realize note will information. Street current just plan yet. Deep response minute another evening idea manager but."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
