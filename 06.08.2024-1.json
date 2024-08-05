@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Jackson",
+    "age": 83,
+    "address": {
+        "street": "Moss Turnpike",
+        "city": "Robinsonmouth",
+        "state": "Illinois",
+        "zip": "50863"
+    },
+    "contact": {
+        "phone": "001-293-451-0626x50691",
+        "servicePhone": "800034392"
+    },
+    "birthday": "1942-26-02",
+    "ip": "129.74.203.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth show suddenly cut thing family deep. Argue physical light better. Office two give.",
+        "bio": "Onto study pattern into while life father. Either part operation test production.\nTraditional drop catch mother may seven. Letter spring when walk so measure cup."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
