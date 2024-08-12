@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Garcia",
+    "age": 14,
+    "address": {
+        "street": "Brewer Ridge",
+        "city": "Jenniferport",
+        "state": "Tennessee",
+        "zip": "58132"
+    },
+    "contact": {
+        "phone": "5033992953",
+        "servicePhone": "800551968"
+    },
+    "birthday": "2011-06-07",
+    "ip": "2.146.81.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Test somebody these performance teacher decide she. Newspaper different exist right.\nLike race today. Could need whom short lawyer. It thus as.",
+        "bio": "State how ability yet into hold. Ready couple money newspaper threat. Be his law everybody tell wait eight receive.\nGirl enter research under card. Take before serve hear rise close determine."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
