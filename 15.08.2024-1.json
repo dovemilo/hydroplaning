@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Frazier",
+    "age": 29,
+    "address": {
+        "street": "Cheryl Rue",
+        "city": "South Brendabury",
+        "state": "Mississippi",
+        "zip": "70652"
+    },
+    "contact": {
+        "phone": "529-629-9835",
+        "servicePhone": "800653219"
+    },
+    "birthday": "1996-19-12",
+    "ip": "75.19.24.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Might loss morning.\nBest total call candidate large magazine health whose. Image institution yeah threat mean often or television.\nRequire require well. Expect general can get modern voice.",
+        "bio": "Product thank better beautiful. Herself summer discover we. Direction small example bank specific.\nThroughout pattern street industry leg trade."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
