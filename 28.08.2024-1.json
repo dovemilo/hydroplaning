@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Long",
+    "age": 58,
+    "address": {
+        "street": "Kimberly Inlet",
+        "city": "North Caitlinberg",
+        "state": "Massachusetts",
+        "zip": "23250"
+    },
+    "contact": {
+        "phone": "+1-367-749-3051x74665",
+        "servicePhone": "800391514"
+    },
+    "birthday": "1967-20-11",
+    "ip": "124.78.234.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop meet space cut apply. Add information front include TV dinner upon recognize.\nCover theory why doctor education rock. Those feeling now.",
+        "bio": "Against set those address themselves. Beautiful financial heart Republican difficult. Program never public produce red."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
