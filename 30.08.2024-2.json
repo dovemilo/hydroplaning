@@ -1,0 +1,25 @@
+{
+    "name": "David Lee",
+    "age": 55,
+    "address": {
+        "street": "Ashley Islands",
+        "city": "Lake Brianborough",
+        "state": "Mississippi",
+        "zip": "06885"
+    },
+    "contact": {
+        "phone": "001-450-706-7246x22394",
+        "servicePhone": "800319413"
+    },
+    "birthday": "1970-24-02",
+    "ip": "211.191.206.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready fine class nothing tell. Style article friend respond chair meet. Exist protect push strong capital general. Stop of drop no whom season.",
+        "bio": "Reach store modern phone. Church anyone argue grow someone something notice."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
