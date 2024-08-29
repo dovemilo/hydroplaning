@@ -1,0 +1,25 @@
+{
+    "name": "Sabrina Fitzgerald",
+    "age": 28,
+    "address": {
+        "street": "Richard Ridges",
+        "city": "Johnsonview",
+        "state": "Hawaii",
+        "zip": "09636"
+    },
+    "contact": {
+        "phone": "(456)938-5352x944",
+        "servicePhone": "800055558"
+    },
+    "birthday": "1997-04-06",
+    "ip": "106.54.251.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred friend concern each. Protect understand investment commercial across hear break drug. Time consider man environment main.",
+        "bio": "Music we born population travel cold. Official church return decision. Million understand team anything box the.\nOffice two job also return occur. Responsibility beyond office."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
