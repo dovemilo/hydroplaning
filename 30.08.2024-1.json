@@ -1,0 +1,25 @@
+{
+    "name": "Amy Jacobson",
+    "age": 89,
+    "address": {
+        "street": "Jennifer Hills",
+        "city": "Maxwellbury",
+        "state": "New Hampshire",
+        "zip": "38356"
+    },
+    "contact": {
+        "phone": "330-256-2699x786",
+        "servicePhone": "800632065"
+    },
+    "birthday": "1936-05-11",
+    "ip": "87.210.79.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom magazine join begin police. Federal stand foot. Party knowledge recently population. Deep main above agree threat.\nList yet other sell.",
+        "bio": "Key indeed yet particularly later what after hot. Scene rule onto when decision. Support Mrs also goal bar."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
