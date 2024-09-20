@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Jones",
+    "age": 80,
+    "address": {
+        "street": "Brewer Crescent",
+        "city": "Scottport",
+        "state": "Indiana",
+        "zip": "30835"
+    },
+    "contact": {
+        "phone": "827.445.5369x0746",
+        "servicePhone": "800405973"
+    },
+    "birthday": "1945-17-06",
+    "ip": "173.177.198.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart kitchen at force. Perform opportunity region might. Talk middle program animal.\nRole that project stage between how eight. Even personal fund important. Save morning beautiful draw.",
+        "bio": "Middle economy something success maybe start yet. Like set nor pay force show. Which create manage give ahead include thank.\nValue course improve court. Window foot pass plant also."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
