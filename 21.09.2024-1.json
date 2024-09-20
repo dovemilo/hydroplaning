@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Alexander",
+    "age": 67,
+    "address": {
+        "street": "Davis Walks",
+        "city": "North Brittany",
+        "state": "Oregon",
+        "zip": "26577"
+    },
+    "contact": {
+        "phone": "001-691-900-9759x159",
+        "servicePhone": "800173583"
+    },
+    "birthday": "1958-21-12",
+    "ip": "213.20.214.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself live they sign debate upon good page.\nBeat fly feeling of. Account team go explain third to hear fact. Stop step visit.",
+        "bio": "Form catch discuss certainly off. Beautiful beautiful family concern main upon. Cell present old far member."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
