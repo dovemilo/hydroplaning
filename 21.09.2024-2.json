@@ -1,0 +1,25 @@
+{
+    "name": "Adrian Hernandez",
+    "age": 88,
+    "address": {
+        "street": "Hernandez Station",
+        "city": "Douglasside",
+        "state": "North Dakota",
+        "zip": "47928"
+    },
+    "contact": {
+        "phone": "915.582.2846x2390",
+        "servicePhone": "800788607"
+    },
+    "birthday": "1937-03-06",
+    "ip": "12.226.96.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup executive blue begin tend couple pay. Remember water threat picture image. Future size history magazine.",
+        "bio": "Far ask production president beautiful. Perform about amount side live apply think.\nWhere leg next city. Itself spend present approach power car apply."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
