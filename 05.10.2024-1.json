@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Shelton",
+    "age": 101,
+    "address": {
+        "street": "Klein Islands",
+        "city": "North Trevormouth",
+        "state": "Indiana",
+        "zip": "18900"
+    },
+    "contact": {
+        "phone": "001-665-355-1301x782",
+        "servicePhone": "800968105"
+    },
+    "birthday": "1924-13-05",
+    "ip": "195.48.33.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Position that structure over kid. Up organization nature peace. Structure tonight above tonight.\nManage professor that movie approach. Feeling eight know marriage machine.",
+        "bio": "Toward man dog energy top. Positive order back. Local middle radio look address drive resource. Huge ask deep simple walk among discover.\nRange ok sit about case reality throw."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
