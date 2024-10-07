@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Smith",
+    "age": 77,
+    "address": {
+        "street": "Pierce Groves",
+        "city": "Jennifermouth",
+        "state": "New Jersey",
+        "zip": "78849"
+    },
+    "contact": {
+        "phone": "418-834-2494",
+        "servicePhone": "800704603"
+    },
+    "birthday": "1948-07-06",
+    "ip": "128.217.137.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Than thing audience pattern item. Father center specific particular vote week clearly. Amount behind health debate it.\nAuthority about guess need thousand quality. Entire conference discuss build.",
+        "bio": "Necessary important view whom shake but knowledge. Each realize down pull newspaper imagine development present."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
