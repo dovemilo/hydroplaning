@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Tonya Ortiz",
+    "age": 7,
+    "address": {
+        "street": "Lauren Camp",
+        "city": "Moralesmouth",
+        "state": "Pennsylvania",
+        "zip": "61470"
+    },
+    "contact": {
+        "phone": "+1-825-534-7151",
+        "servicePhone": "800247581"
+    },
+    "birthday": "2018-20-10",
+    "ip": "19.14.107.236",
+    "foo": "bar",
+    "profile": {
+        "about": "For already two term. Democrat imagine matter little. Guy plant protect seat be bank.\nHand world someone. Change doctor ball start who. Industry break general threat agency.",
+        "bio": "Foot between your. View continue list great either into service.\nOfficer alone current more grow even. Follow parent herself although minute any pass. Value name before shake show."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
