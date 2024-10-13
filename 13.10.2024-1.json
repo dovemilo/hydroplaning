@@ -1,0 +1,25 @@
+{
+    "name": "John Smith",
+    "age": 93,
+    "address": {
+        "street": "Patricia Run",
+        "city": "Nancyside",
+        "state": "Indiana",
+        "zip": "98074"
+    },
+    "contact": {
+        "phone": "240-645-2993",
+        "servicePhone": "800877100"
+    },
+    "birthday": "1932-28-03",
+    "ip": "73.100.216.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Just learn music investment ball light community. Stock read note hope. True never probably agreement continue apply cause spring. Pull enough test former federal.",
+        "bio": "Option law fine population magazine central write. Economy economic radio bill.\nPiece evidence exactly tough likely. Modern avoid necessary them nature parent."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
