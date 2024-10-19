@@ -1,0 +1,25 @@
+{
+    "name": "Jill Bridges",
+    "age": 14,
+    "address": {
+        "street": "Hernandez Light",
+        "city": "South Sarah",
+        "state": "Massachusetts",
+        "zip": "50251"
+    },
+    "contact": {
+        "phone": "524-512-2421x8228",
+        "servicePhone": "800985964"
+    },
+    "birthday": "2011-27-06",
+    "ip": "208.214.163.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Star scientist control despite six region. Media require chair some prepare defense.\nComputer suggest Mrs condition often democratic national similar. Rule find series.",
+        "bio": "Reality point lead focus author also society blue. Collection toward road.\nQuickly exactly tough now. Might enjoy should money American. Drive production task financial stop."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
