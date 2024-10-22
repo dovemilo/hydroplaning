@@ -1,0 +1,25 @@
+{
+    "name": "Sean Johnson",
+    "age": 68,
+    "address": {
+        "street": "Kellie Brooks",
+        "city": "East Vanessa",
+        "state": "Colorado",
+        "zip": "65642"
+    },
+    "contact": {
+        "phone": "(787)726-1579x435",
+        "servicePhone": "800672536"
+    },
+    "birthday": "1957-24-01",
+    "ip": "214.144.209.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Election manager win young always few story. Case important part decide standard around necessary.\nSuffer answer oil sort may record compare. Bill series sign should wear. Young can itself all some.",
+        "bio": "Receive degree able everyone magazine authority service. Information call relate put. While level attack before some."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
