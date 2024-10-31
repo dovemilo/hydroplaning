@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Brown",
+    "age": 86,
+    "address": {
+        "street": "Aaron Camp",
+        "city": "New Brandon",
+        "state": "Kansas",
+        "zip": "87201"
+    },
+    "contact": {
+        "phone": "9389660014",
+        "servicePhone": "800858985"
+    },
+    "birthday": "1939-25-10",
+    "ip": "184.14.201.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut entire those room charge matter audience. White reduce project government professor poor news. Power price type their.\nExample cell social my friend. Economy artist front memory try science.",
+        "bio": "Decision subject public rock wall check. Use cold where maintain.\nStill fall hope. Technology much safe rock make begin.\nInvolve news American company front upon. Accept through bag food almost."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
