@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Thomas",
+    "age": 70,
+    "address": {
+        "street": "Douglas Ramp",
+        "city": "Kerriside",
+        "state": "Delaware",
+        "zip": "45047"
+    },
+    "contact": {
+        "phone": "001-566-562-3645",
+        "servicePhone": "800062006"
+    },
+    "birthday": "1955-07-03",
+    "ip": "112.154.234.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent black back discuss. Property indeed special find left bring interest.",
+        "bio": "Parent attorney college space write. Everybody number after arrive. Young there necessary a want ask support.\nArea tonight kind agent economy list. Resource show bad fine those laugh."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
