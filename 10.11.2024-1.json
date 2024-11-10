@@ -1,0 +1,25 @@
+{
+    "name": "Lori Hernandez",
+    "age": 22,
+    "address": {
+        "street": "Brandon Village",
+        "city": "North Elizabethland",
+        "state": "West Virginia",
+        "zip": "95587"
+    },
+    "contact": {
+        "phone": "001-471-676-9163x555",
+        "servicePhone": "800228654"
+    },
+    "birthday": "2003-10-06",
+    "ip": "137.122.226.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Picture response daughter role the end. Mouth stop western less may apply onto federal.",
+        "bio": "Ready term feel agree discussion. Form rock huge image material remain. Human eye attack statement such.\nSing administration listen image pattern yet face. Fish model deep head."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
