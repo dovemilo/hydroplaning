@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Ochoa",
+    "age": 14,
+    "address": {
+        "street": "William Branch",
+        "city": "Paulport",
+        "state": "Pennsylvania",
+        "zip": "71495"
+    },
+    "contact": {
+        "phone": "7872396425",
+        "servicePhone": "800248481"
+    },
+    "birthday": "2011-15-05",
+    "ip": "34.66.145.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring tonight chair as health effort kind exactly.\nTell water paper cold.\nSpeech trade source collection move dinner myself. Do water management executive foot.",
+        "bio": "Relate life front early note finish. Cultural author bar allow smile week turn.\nReveal or professor health. Big begin green least."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
