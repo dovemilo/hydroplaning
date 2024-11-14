@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Rowland",
+    "age": 87,
+    "address": {
+        "street": "Lozano Summit",
+        "city": "New Michealshire",
+        "state": "Washington",
+        "zip": "59305"
+    },
+    "contact": {
+        "phone": "316.940.6732x8866",
+        "servicePhone": "800395073"
+    },
+    "birthday": "1938-19-03",
+    "ip": "191.54.118.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting first away quality business.\nHow camera suggest whose. Simply each kitchen board policy during city.",
+        "bio": "Last write increase ahead off cover. Authority politics onto coach on hear.\nFoot recognize investment both generation special economic discussion."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
