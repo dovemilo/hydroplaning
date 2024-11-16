@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Parker",
+    "age": 96,
+    "address": {
+        "street": "Tina Lodge",
+        "city": "Kevinview",
+        "state": "Hawaii",
+        "zip": "00548"
+    },
+    "contact": {
+        "phone": "848-399-1063x294",
+        "servicePhone": "800989346"
+    },
+    "birthday": "1929-02-04",
+    "ip": "67.63.217.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Say better read mother upon personal meeting. Expect magazine security avoid right toward.\nA season stop scene consider buy. Open however year set. Change analysis long speak leave nice.",
+        "bio": "Foot maybe student yourself state. Easy particularly management. Check model class.\nBest go go half size score likely. Wait truth production ok mention. Actually beautiful mention on body hand."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
