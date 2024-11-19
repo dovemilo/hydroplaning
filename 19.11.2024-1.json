@@ -1,0 +1,25 @@
+{
+    "name": "Janet Estrada",
+    "age": 60,
+    "address": {
+        "street": "Franklin Station",
+        "city": "East Sara",
+        "state": "Florida",
+        "zip": "46931"
+    },
+    "contact": {
+        "phone": "9132204122",
+        "servicePhone": "800377489"
+    },
+    "birthday": "1965-12-01",
+    "ip": "18.153.162.237",
+    "foo": "bar",
+    "profile": {
+        "about": "City site relationship military time end law. Win either country science of suggest space. Build model life result night.",
+        "bio": "Civil individual individual past bar fear education. Perform issue machine career partner last must.\nColor budget relate school. Support crime paper. Serious interest like green tough sister woman."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
