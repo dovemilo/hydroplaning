@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Bailey",
+    "age": 67,
+    "address": {
+        "street": "Bates Lock",
+        "city": "Chandlerland",
+        "state": "North Dakota",
+        "zip": "96541"
+    },
+    "contact": {
+        "phone": "603-672-6080x4870",
+        "servicePhone": "800105050"
+    },
+    "birthday": "1958-14-02",
+    "ip": "191.186.219.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty contain few little ready catch we. Computer according explain example. Down young class example.",
+        "bio": "Stay economy design between modern report court almost. Yeah thing moment often.\nDirector role ago win. Agree head fund scene take do choose."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
