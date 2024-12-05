@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Dennis",
+    "age": 18,
+    "address": {
+        "street": "Megan Turnpike",
+        "city": "Jacobchester",
+        "state": "Vermont",
+        "zip": "24692"
+    },
+    "contact": {
+        "phone": "993.956.3610x16472",
+        "servicePhone": "800089633"
+    },
+    "birthday": "2007-17-12",
+    "ip": "60.228.169.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice agent memory pick difference evidence explain. Agree down experience world air. Official thank provide sit power.\nListen near event if address arm. Artist as evidence laugh budget.",
+        "bio": "Class subject bit. Show purpose by there evening. Ground rule air never."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
