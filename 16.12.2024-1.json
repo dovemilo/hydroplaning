@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Mcdonald",
+    "age": 63,
+    "address": {
+        "street": "Adams Estate",
+        "city": "Brownview",
+        "state": "Pennsylvania",
+        "zip": "45235"
+    },
+    "contact": {
+        "phone": "(976)593-0833",
+        "servicePhone": "800019135"
+    },
+    "birthday": "1962-15-09",
+    "ip": "44.194.251.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Report movie nearly hope. Morning one style bring up. None bad arrive us.\nScore amount agent law that standard off.\nSpecific strategy dream act eat. Pm natural seem night mission another a piece.",
+        "bio": "Early mean even group draw.\nDetail far court feeling. Nation line purpose radio really PM.\nEat building as special this. Bring meeting bit than prevent."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
