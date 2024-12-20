@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Mosley",
+    "age": 43,
+    "address": {
+        "street": "Allen Lock",
+        "city": "Robertstad",
+        "state": "Connecticut",
+        "zip": "57011"
+    },
+    "contact": {
+        "phone": "+1-764-860-5764x33131",
+        "servicePhone": "800706749"
+    },
+    "birthday": "1982-01-11",
+    "ip": "199.124.25.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital southern possible lead article case. Because especially act establish. Stage near western board production glass.",
+        "bio": "Character small low reduce. And machine win reflect visit. Fund including year question degree current get suddenly.\nSpeak yes exactly."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
