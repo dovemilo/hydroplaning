@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Cameron",
+    "age": 13,
+    "address": {
+        "street": "Willie Shores",
+        "city": "Aaronhaven",
+        "state": "Mississippi",
+        "zip": "43644"
+    },
+    "contact": {
+        "phone": "607-595-2342x311",
+        "servicePhone": "800327394"
+    },
+    "birthday": "2012-29-10",
+    "ip": "176.145.116.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate despite discuss probably consumer already your. Likely vote relationship.\nAct knowledge brother could staff drop. You speak citizen. Business budget other off statement.",
+        "bio": "Catch speak message chair business them career. System sign we forward my strategy thank. During stock own talk."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
