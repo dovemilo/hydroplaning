@@ -1,0 +1,25 @@
+{
+    "name": "Rick Johnson",
+    "age": 115,
+    "address": {
+        "street": "Carr Squares",
+        "city": "East Adammouth",
+        "state": "Connecticut",
+        "zip": "44143"
+    },
+    "contact": {
+        "phone": "209-568-5879x58816",
+        "servicePhone": "800634948"
+    },
+    "birthday": "1910-03-06",
+    "ip": "189.195.220.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis south prove claim. We shoulder president pretty point grow increase. Major fact personal.\nBreak wear where wonder sometimes black. Certainly citizen say price people nothing how claim.",
+        "bio": "Onto eight out huge professional language anyone parent. Field gas fire whom well. Mrs of check court car."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
