@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Martinez",
+    "age": 37,
+    "address": {
+        "street": "Mcknight Port",
+        "city": "Elizabethberg",
+        "state": "Vermont",
+        "zip": "19289"
+    },
+    "contact": {
+        "phone": "245.649.1780",
+        "servicePhone": "800327653"
+    },
+    "birthday": "1988-17-02",
+    "ip": "57.49.8.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur its wish theory we tell. Day writer south specific daughter over president. Pay say affect country couple.\nIf generation hit check scientist adult. However Republican message skill good page.",
+        "bio": "Memory hard body from travel whose. Sign surface place close director. Better final development consumer hold agency."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
