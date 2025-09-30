@@ -1,0 +1,25 @@
+{
+    "name": "Grace Calderon",
+    "age": 60,
+    "address": {
+        "street": "Mitchell Shoals",
+        "city": "Gabrielmouth",
+        "state": "Georgia",
+        "zip": "52908"
+    },
+    "contact": {
+        "phone": "+1-428-754-5785x1219",
+        "servicePhone": "800540667"
+    },
+    "birthday": "1965-30-09",
+    "ip": "123.176.7.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess notice run. For every upon crime action.\nHead call son meet final report pick. Although season tell customer enough reflect woman.",
+        "bio": "Major gas nothing center ball worker. Offer cell step avoid happy hospital be.\nSecond its arm visit view condition social morning. Political surface human."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}

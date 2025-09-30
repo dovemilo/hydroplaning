@@ -1,0 +1,25 @@
+{
+    "name": "Briana Knight",
+    "age": 25,
+    "address": {
+        "street": "David Ville",
+        "city": "Port Rachelton",
+        "state": "North Dakota",
+        "zip": "00747"
+    },
+    "contact": {
+        "phone": "001-952-685-7895x594",
+        "servicePhone": "800337785"
+    },
+    "birthday": "2000-28-05",
+    "ip": "204.135.159.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep fear any though business commercial amount. Future cold discover.\nAttack deal green through trip way.\nFight herself hour. One week allow him. Collection piece employee.",
+        "bio": "Trial alone provide road low analysis. Food help upon yard manage society art. Still last air health yard old like."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
