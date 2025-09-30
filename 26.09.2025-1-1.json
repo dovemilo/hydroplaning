@@ -1,0 +1,25 @@
+{
+    "name": "Frank Rodriguez",
+    "age": 112,
+    "address": {
+        "street": "Jimenez Expressway",
+        "city": "Maryshire",
+        "state": "Maine",
+        "zip": "91582"
+    },
+    "contact": {
+        "phone": "9707597850",
+        "servicePhone": "800969784"
+    },
+    "birthday": "1913-28-12",
+    "ip": "159.137.47.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Save left protect nearly wind friend huge.\nData fund situation order. Area area business hope. Building world generation crime study important everyone bag.",
+        "bio": "Send whom manager. Offer low those finally talk direction.\nSix much believe still pull laugh. I during fine us front education hand discuss. Fill push check vote artist."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
