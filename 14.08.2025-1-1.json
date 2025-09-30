@@ -1,0 +1,25 @@
+{
+    "name": "Mario Thomas",
+    "age": 2,
+    "address": {
+        "street": "Jennifer Throughway",
+        "city": "Jorgeton",
+        "state": "Alaska",
+        "zip": "76777"
+    },
+    "contact": {
+        "phone": "(323)653-5258x55109",
+        "servicePhone": "800159941"
+    },
+    "birthday": "2023-03-07",
+    "ip": "84.10.248.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest theory five west director least know. Group style entire represent recently stock.",
+        "bio": "Rise statement up sell. Perform growth social professor authority notice learn.\nOption front buy power hard create. Line outside finally degree century matter."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
