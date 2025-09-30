@@ -1,0 +1,25 @@
+{
+    "name": "Angie Lewis",
+    "age": 46,
+    "address": {
+        "street": "Reginald Trail",
+        "city": "Marybury",
+        "state": "Montana",
+        "zip": "93559"
+    },
+    "contact": {
+        "phone": "3119111958",
+        "servicePhone": "800415074"
+    },
+    "birthday": "1979-05-04",
+    "ip": "196.11.45.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Message staff phone ball. Beautiful PM message lose single too although. Physical section affect lawyer last far little.",
+        "bio": "Reveal simple receive half else whose truth. Pick PM size trip. Suffer call ahead fine player."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
