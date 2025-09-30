@@ -1,0 +1,25 @@
+{
+    "name": "Joyce Camacho",
+    "age": 77,
+    "address": {
+        "street": "Becky Turnpike",
+        "city": "Michaelmouth",
+        "state": "New Mexico",
+        "zip": "53947"
+    },
+    "contact": {
+        "phone": "(803)316-3116x839",
+        "servicePhone": "800385178"
+    },
+    "birthday": "1948-01-10",
+    "ip": "91.141.219.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest middle join speech gas might. Could within trouble kind now friend speak.\nCertainly he market agreement sometimes.",
+        "bio": "Woman support heavy guy present crime. Area body generation weight agent activity. Dinner type resource more early picture team."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

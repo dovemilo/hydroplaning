@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Bailey",
+    "age": 49,
+    "address": {
+        "street": "Yu Causeway",
+        "city": "Port Brandonmouth",
+        "state": "Nevada",
+        "zip": "38251"
+    },
+    "contact": {
+        "phone": "(578)747-7338x340",
+        "servicePhone": "800691714"
+    },
+    "birthday": "1976-03-07",
+    "ip": "133.176.18.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind exist identify effect myself character might participant. Bank since understand meet over next.",
+        "bio": "Something wide control voice page medical. Subject describe politics seat class almost who. Leader soon section short administration charge scene."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

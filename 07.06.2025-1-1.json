@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Smith",
+    "age": 55,
+    "address": {
+        "street": "Allen Union",
+        "city": "West Hannah",
+        "state": "Maine",
+        "zip": "24715"
+    },
+    "contact": {
+        "phone": "793.928.4560",
+        "servicePhone": "800801491"
+    },
+    "birthday": "1970-07-07",
+    "ip": "33.204.173.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy film health state. Between continue local team feel there. Space anyone loss vote let song.\nThem consumer church shoulder a truth. Blue travel land describe new state.",
+        "bio": "Walk then yourself focus pass. Stay eight and us treat real believe. Class enough father most challenge whether.\nPass better maybe answer able certainly card. Son sound situation say fight sport."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
