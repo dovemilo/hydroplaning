@@ -1,0 +1,25 @@
+{
+    "name": "David Carroll",
+    "age": 99,
+    "address": {
+        "street": "Wilson Valley",
+        "city": "Nielsenchester",
+        "state": "Oklahoma",
+        "zip": "35592"
+    },
+    "contact": {
+        "phone": "001-578-338-8538x594",
+        "servicePhone": "800176687"
+    },
+    "birthday": "1926-27-09",
+    "ip": "93.191.121.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop player serious. Suddenly sit listen defense. Face medical plant will source soon.\nPlayer line rate Democrat. Fly speech wait former section authority. Manage face left military.",
+        "bio": "Seem job rise husband group rule card. Fire if option cold."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
