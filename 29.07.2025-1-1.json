@@ -1,0 +1,25 @@
+{
+    "name": "Alex Hudson",
+    "age": 35,
+    "address": {
+        "street": "Holmes Crescent",
+        "city": "North Markborough",
+        "state": "Texas",
+        "zip": "62232"
+    },
+    "contact": {
+        "phone": "(480)655-2615",
+        "servicePhone": "800128163"
+    },
+    "birthday": "1990-27-04",
+    "ip": "132.185.186.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Before area under base others process. Interview remain why suggest. Only bank evening attention.",
+        "bio": "Property bank night difference agent up economy. Rather adult before start wife head official.\nIncluding door exactly him article every. Quickly through tough even."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
