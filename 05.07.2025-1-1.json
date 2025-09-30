@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Beard",
+    "age": 25,
+    "address": {
+        "street": "Jones Isle",
+        "city": "Coleside",
+        "state": "Wyoming",
+        "zip": "33110"
+    },
+    "contact": {
+        "phone": "776-204-0199",
+        "servicePhone": "800589536"
+    },
+    "birthday": "2000-14-09",
+    "ip": "36.156.100.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Happen risk fight same well summer behind catch. Toward for no.\nMillion safe body its those car little possible. Some different song six. Tell his reveal worker seven into.",
+        "bio": "Since tree hospital performance hour why. Station both most research never power. Religious Mr keep.\nNot drive senior among lay these. Car stop price under situation."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
